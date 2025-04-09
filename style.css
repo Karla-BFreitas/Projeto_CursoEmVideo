@@ -59,7 +59,7 @@ header > p {
     font-weight: normal;
     max-width: 500px;
     margin: auto;
-    margin-bottom: 20px;
+    padding-bottom: 30px;
     padding: 0 10px 0 10px;
     text-shadow: 2px 2px 0px #00000077;
 }
@@ -71,6 +71,7 @@ header > p {
     box-shadow: 0px 7px 7px rgba(0, 0, 0, 0.363);
     padding: 10px;
     gap: 20px;   
+    
 }
  
 li > a {
@@ -233,3 +234,15 @@ footer a:hover {
 }
 
 
+@media (max-width: 768px) { /* Media para ajuste de nav em dispositivos menores */
+    .navegacao-container {
+        flex-direction: column;
+        align-items: center;
+        gap: 15px;
+    }
+
+    li > a {
+        font-size: 1.2em;
+        padding: 8px;
+    }
+}
