@@ -16,17 +16,24 @@
 
 <p>Toda a estrutura do website foi desenvolvida com HTML, em conjunto com CSS para sua estilização, utilizando interações com a barra de menu e emojis intuitivos ao lado dos links.</p>
 
-### Header e Nav
-<div>
-  <img src='https://github.com/user-attachments/assets/5db6405b-b61f-4388-b76b-672e92decb63'>
+### Sobre a página
+<p>A ideia de sua criação tem o objetivo educacional para a prática de criação e estilização de sites com HTML e CSS.</p>
+<p>O projeto explora elementos fundamentais como estruturação semântica com header, main, section e footer, além de aplicar estilos visuais com seletores, variáveis de cor, sombras, responsividade e organização com flexbox.
+Além disso, inclui práticas modernas como incorporação de vídeos, listas personalizadas, links externos com ícones, e uso de fontes externas via Google Fonts e fontes personalizadas.</p>
+<div align=center>
+  <img src='https://github.com/user-attachments/assets/5db6405b-b61f-4388-b76b-672e92decb63' width="950px">
+</div>
+<div align=center>
+  
+</div>
+<div align=center>
+  <img src='https://github.com/user-attachments/assets/277e8d75-3d3b-4055-a7a5-ab5572dda448' width="950px">
 </div>
 
-### Main
-<div>
-  <img src='https://github.com/user-attachments/assets/8f0fe547-0c3c-4657-8e20-a5e994a5c8df'>
-</div>
-
-### Footer
-<div>
-  <img src='https://github.com/user-attachments/assets/277e8d75-3d3b-4055-a7a5-ab5572dda448'>
+## Responsividade para dispositivos móveis
+<p>Não se limitando apenas a telas de Desktop, o site também foi criado para se adequar e responder a telas menores ou de despositivos móveis.</p>
+<div align=center>
+  <img src='https://github.com/user-attachments/assets/0e5d9d0a-2dc8-4c0c-a896-f13b17ecb5b1' width="323px">
+  &nbsp;&nbsp;&nbsp;
+  <img src='https://github.com/user-attachments/assets/5f5bc0fb-5198-4eba-91d3-a1b8890df6ae' width="300px">
 </div>
